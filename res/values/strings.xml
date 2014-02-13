@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="suit1">&#9824;</string>
+    <string name="suit2">&#9829;</string>
+    <string name="suit3">&#9827;</string>
+    <string name="suit4">&#9830;</string>
+
+    
+
+</resources>
